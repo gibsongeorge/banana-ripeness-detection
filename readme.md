@@ -104,6 +104,23 @@ The model was deployed as an interactive Streamlit web application where users c
 * Optimize model for mobile deployment
 
 ---
+# 📸 Application Preview
+
+## Model_loading
+
+![Model Loading](images/model_loading.png)
+
+## Prediction Output
+
+![Prediction](images/prediction.png)
+
+## Streamlit
+
+![Streamlit](images/streamlit.png)
+
+
+
+---
 
 # ▶️ Run Locally
 
