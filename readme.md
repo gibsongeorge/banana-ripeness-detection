@@ -110,7 +110,7 @@ The model was deployed as an interactive Streamlit web application where users c
 
 ![Model Loading](images/model_loading.png)
 
-## Prediction Output
+## Prediction_Output
 
 ![Prediction](images/prediction.png)
 
